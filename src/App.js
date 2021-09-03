@@ -8,10 +8,10 @@ import {BrowserRouter as Router, Switch, Route} from 'react-router-dom';
 import SearchResult from './components/SearchResult';
 import UserFilter from './components/UserFilter';
 
-//import { Nav, PrivateRoute } from './components/nav';
-//import { Home } from './components/home';
-//import { EditAccount } from './components/home';
-//import { Login } from './components/login';
+// import { Nav, PrivateRoute } from './components/nav';
+// import { Home } from './components/home';
+// import { EditAccount } from './components/home';
+// import { Login } from './components/login';
 
 function App() {
 
